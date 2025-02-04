@@ -7,4 +7,10 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Filamchi",Filamchi
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Fancode",Fancode
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="JioSports p-gm",JioSports p-gm
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="SonyLiv Specific",Sonyliv specific
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 
