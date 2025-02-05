@@ -10,8 +10,7 @@ https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Fancode",Fancode
 https://dai.google.com/linear/hls/event/41tfzfjCQ66nNBh6ZK4BbQ/master.m3u8?hdnea=exp=1738736809~acl=*~id=71406495_90583922-73e1-4c~data=71406495_free_420~hmac=5ec61d145a02091f0caceaf7ccdeceb0cfbaf976bd47e305de07cf4ff5fe5292&deviceId=undefined&advertiserId=undefined&cust_params=app_version%3D%26app_platform%3Dfc-web%26state%3DTelangana%26city%3DHyderabad%26userId%3D71406495%26match_id%3D117641%26match_format%3DT20%26tour_id%3D4791%26tour_name%3DNepal_Women%27s_T20I_Triangular_Series%26sport%3Dcricket%26authorizationType%3DPAID&state=Telangana&city=Hyderabad
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="JioSports p-gm",JioSports p-gm
-https://epiconvh.akamaized.net/live/filamchi/master.m3u8
-
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100311/hd_akamai_merged_avc_eng_fih_m2_050225/mobile_master.m3u8
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Colors Den",Colors Den
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/hdntl=exp=1738756841~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=594257240f18f94c6d575d9090795496e490bac0dd7cac7fdbbdbe046340e110/JC_ColorsHD.m3u8%7CUser-Agent=Shraddha/5.0
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Ristey Den",Ristey Den
