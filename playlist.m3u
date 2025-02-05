@@ -11,12 +11,16 @@ https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="JioSports p-gm",JioSports p-gm
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Colors Den",Colors Den
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/hdntl=exp=1738756841~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=594257240f18f94c6d575d9090795496e490bac0dd7cac7fdbbdbe046340e110/JC_ColorsHD.m3u8%7CUser-Agent=Shraddha/5.0
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Ristey Den",Ristey Den
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/hdntl=exp=1738756841~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=594257240f18f94c6d575d9090795496e490bac0dd7cac7fdbbdbe046340e110/JC_ColorsRishtey.m3u8%7CUser-Agent=Shraddha/5.0
-#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Comedy Central HD Den",Comedy Central HD Den
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Colors Infinity Den",Colors Infinity Den
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/hdntl=exp=1738756841~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=594257240f18f94c6d575d9090795496e490bac0dd7cac7fdbbdbe046340e110/JC_ColorsInfinityHD.m3u8%7CUser-Agent=Shraddha/5.0
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Comedy Central",Comedy Central
+http://jcevents.jiocinema.com/bpk-tv/JC_ComedyCentralHD/JCHLS/hdntl=exp=1738800041~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=a0047fc2da999cb0043a84c7069d87352813585ad2b464ddf1ef804c876f5735/JC_ComedyCentralHD.m3u8%7CUser-Agent=Shraddha/5.0
+
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Colors Cineplex HD Den",Cineplex HD Den
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/hdntl=exp=1738756841~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=594257240f18f94c6d575d9090795496e490bac0dd7cac7fdbbdbe046340e110/JC_ColorsCineplexHD.m3u8%7CUser-Agent=Shraddha/5.0
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Colors Cineplex Superhit Den",Cineplex Superhit Den
@@ -24,17 +28,44 @@ https://jcevents.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/hdntl=exp=
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Colors Cineplex BollywoodDen",Cineplex Bollywood Den
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/hdntl=exp=1738756841~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=594257240f18f94c6d575d9090795496e490bac0dd7cac7fdbbdbe046340e110/JC_ColorsCineplexBollywood.m3u8%7CUser-Agent=Shraddha/5.0
 
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="MTV HD Den",MTV HD Den
+https://jcevents.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/hdntl=exp=1738800041~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=a0047fc2da999cb0043a84c7069d87352813585ad2b464ddf1ef804c876f5735/JC_MTVHD.m3u8%7CUser-Agent=Shraddha/5.0
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="MTV Beats Den",MTV Beats Den
+http://jcevents.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/hdntl=exp=1738756841~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=594257240f18f94c6d575d9090795496e490bac0dd7cac7fdbbdbe046340e110/JC_MTVBeatsHD.m3u8%7CUser-Agent=Shraddha/5.0
 
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="SPORTS 18 HD Den",SPORTS 18 HD Den
 https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1738756841~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=594257240f18f94c6d575d9090795496e490bac0dd7cac7fdbbdbe046340e110/JC_Sports18_1HD.m3u8%7CUser-Agent=Shraddha/5.0
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title=" SPORTS 18 Khel Den",SPORTS 18 Khel Den
 https://jcevents.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/hdntl=exp=1738756841~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=594257240f18f94c6d575d9090795496e490bac0dd7cac7fdbbdbe046340e110/Sports18_Khel_voot_MOB.m3u8%7CUser-Agent=Shraddha/5.0
-#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="MTV HD Den",MTV HD Den
-https://jcevents.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/hdntl=exp=1738756841~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=594257240f18f94c6d575d9090795496e490bac0dd7cac7fdbbdbe046340e110/JC_MTVHD.m3u8%7CUser-Agent=Shraddha/5.0#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="CricStream",CricStream
-#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="MTV Beats Den",MTV Beats Den
-http://jcevents.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/hdntl=exp=1738756841~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=594257240f18f94c6d575d9090795496e490bac0dd7cac7fdbbdbe046340e110/JC_MTVBeatsHD.m3u8%7CUser-Agent=Shraddha/5.0
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="CricStream Den",CricStream Den
 https://jcevents.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/hdntl=exp=1738756841~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=594257240f18f94c6d575d9090795496e490bac0dd7cac7fdbbdbe046340e110/JV_SportsHD15_DIG_MOB.m3u8%7CUser-Agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Nick SD",Nick SD
+https://jcevents.jiocinema.com/bpk-tv/JC_NickSD/JCHLS/hdntl=exp=1738800041~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=a0047fc2da999cb0043a84c7069d87352813585ad2b464ddf1ef804c876f5735/JC_NickSD.m3u8%7CUser-Agent=Shraddha/5.0
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Nick Junior",Nick Junior
+https://jcevents.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/hdntl=exp=1738800041~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=a0047fc2da999cb0043a84c7069d87352813585ad2b464ddf1ef804c876f5735/JC_NickJr.m3u8%7CUser-Agent=Shraddha/5.0
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Nick HD+",Nick HD+
+https://jcevents.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/hdntl=exp=1738800041~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=a0047fc2da999cb0043a84c7069d87352813585ad2b464ddf1ef804c876f5735/JC_NickHD.m3u8%7CUser-Agent=Shraddha/5.0
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Sonic",Sonic
+https://jcevents.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/hdntl=exp=1738800041~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=a0047fc2da999cb0043a84c7069d87352813585ad2b464ddf1ef804c876f5735/JC_SonicNick.m3u8%7CUser-Agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="CNBC Awaaz",CNBC Awaaz
+https://jcevents.jiocinema.com/bpk-tv/CNBC_Awaaz_voot_MOB/Fallback/hdntl=exp=1738800041~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=a0047fc2da999cb0043a84c7069d87352813585ad2b464ddf1ef804c876f5735/CNBC_Awaaz_voot_MOB.m3u8%7CUser-Agent=Shraddha/5.0
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="CNBC Tv 18",CNBC Tv 18
+https://jcevents.jiocinema.com/bpk-tv/CNBC_TV18_voot_MOB/Fallback/hdntl=exp=1738800041~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=a0047fc2da999cb0043a84c7069d87352813585ad2b464ddf1ef804c876f5735/CNBC_TV18_voot_MOB.m3u8%7CUser-Agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="CNN NEWS 18",CNN NEWS 18
+https://jcevents.jiocinema.com/bpk-tv/CNN_News18_voot_MOB/Fallback/hdntl=exp=1738800041~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=a0047fc2da999cb0043a84c7069d87352813585ad2b464ddf1ef804c876f5735/CNN_News18_voot_MOB.m3u8%7CUser-Agent=Shraddha/5.0
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="News18 India",News18 India
+https://jcevents.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/hdntl=exp=1738800041~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=a0047fc2da999cb0043a84c7069d87352813585ad2b464ddf1ef804c876f5735/News18_India_voot_MOB.m3u8%7CUser-Agent=Shraddha/5.0
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="News18 UP",News18 UP
+https://jcevents.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/hdntl=exp=1738800041~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=a0047fc2da999cb0043a84c7069d87352813585ad2b464ddf1ef804c876f5735/News18_UP_Uttarakhand_voot_MOB.m3u8|User-Agent=Shraddha/5.0
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="News18 CG MP",News18 CG MP
+https://jcevents.jiocinema.com/bpk-tv/News18_MP_Chhattisgarh_voot_MOB/Fallback/hdntl=exp=1738800041~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=a0047fc2da999cb0043a84c7069d87352813585ad2b464ddf1ef804c876f5735/News18_MP_Chhattisgarh_voot_MOB.m3u8%7CUser-Agent=Shraddha/5.0
+
+
+
+
 
 
 
