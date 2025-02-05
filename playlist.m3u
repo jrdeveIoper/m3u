@@ -63,6 +63,10 @@ https://jcevents.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/hd
 https://jcevents.jiocinema.com/bpk-tv/News18_MP_Chhattisgarh_voot_MOB/Fallback/hdntl=exp=1738800041~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=a0047fc2da999cb0043a84c7069d87352813585ad2b464ddf1ef804c876f5735/News18_MP_Chhattisgarh_voot_MOB.m3u8%7CUser-Agent=Shraddha/5.0
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Sansad Tv",Sansad Tv
 https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Akashvani",Akashvani
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Vividh Bharti",Vividh Bharti
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
 
 
 
