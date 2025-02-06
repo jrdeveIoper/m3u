@@ -43,7 +43,7 @@ http://jcevents.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/hdntl=exp=1738756841~ac
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="SPORTS 18 HD Den",SPORTS 18 HD Den
 https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1738886440~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=4657304fe4f51fb8ab9e2e6c5ff4ff2e92eea24bf7ae64f35c038712b9a0fb4a/JC_Sports18_1HD.m3u8%7CUser-Agent=Shraddha/5.0
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title=" SPORTS 18 Khel Den",SPORTS 18 Khel Den
-https://jcevents.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/hdntl=exp=1738886440~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=4657304fe4f51fb8ab9e2e6c5ff4ff2e92eea24bf7ae64f35c038712b9a0fb4a/Sports18_Khel_voot_MOB.m3u8%7CUser-Agent=Shraddha/5.0
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_SD_voot_MOB/output03/index.m3u8?hdnea=exp=1738861823~acl=/*~hmac=368d82dc5f978b27bf3dfc3dc87c8e3ee767deb3f97e65a1c1a86179921246be
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="CricStream Den",CricStream Den
 https://jcevents.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/hdntl=exp=1738756841~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=594257240f18f94c6d575d9090795496e490bac0dd7cac7fdbbdbe046340e110/JV_SportsHD15_DIG_MOB.m3u8%7CUser-Agent=Shraddha/5.0
 
