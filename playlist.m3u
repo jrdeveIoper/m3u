@@ -5,5 +5,9 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Filamchi",Filamchi
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
-#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="splitsvilla 1",splitsvilla1
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="16 jan",16 jan
 https://s2.videoapne.to/hls/bdohxp6g7bboxuzvta574fiwrmvphnfzukwmafd6y4pnxgrdrpmkrts43k4a/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="17 jan",17 jan
+https://s2.videoapne.to/hls/,bdohxg6g7bboxuzvta574d2xtadtazqtudltwnn5fjdbducufeyf3v2nagzq,.urlset/master.m3u8
+#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="18 jan",18 jan
+https://s2.videoapne.to/hls/,bdohx4gg7bboxuzvta574cao3opq6yqobejneprquyid4ju5kk4j2ugh4goq,.urlset/master.m3u8
