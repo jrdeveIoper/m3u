@@ -2,12 +2,6 @@
 https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Live TV",9xjalwa
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
-
-EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Dangal Play",e2
-https://92b1e4ecf5a844ff7f8593bd90e6852f.r2.cloudflarestorage.com/hub2/41307d08a58c47fdfd398d898d08dba3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0bad4ccd1bcaf5c790287c0237234200%2F20260805%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260805T172141Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22%28Movies4u.Foo%29.The.Tudors.S03E02.The.Northern.Uprising.1080p.WEB-DL.Hindi.English.ESub.x264.mkv%22&X-Amz-Signature=4392733b3f35a4460145ed68656a3049c265c9d09942fe9de210aa03a6107bec
-EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Dangal Play",e3
-https://92b1e4ecf5a844ff7f8593bd90e6852f.r2.cloudflarestorage.com/hub2/916e24049dbbf61278246129110ccab0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0bad4ccd1bcaf5c790287c0237234200%2F20260805%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260805T182912Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22%28Movies4u.Foo%29.The.Tudors.S03E03.Dissension.and.Punishment.1080p.WEB-DL.Hindi.English.ESub.x264.mkv%22&X-Amz-Signature=b5108214fcb09c6847603da0edea72dcf51d0b5ddad8ad309ca95f6ec1994831
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Dangal Play",Dangal Play 
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Bhojpuri Movies",Bhojpuri Movies 
